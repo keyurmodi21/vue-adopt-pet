@@ -1,10 +1,8 @@
 <template>
-  <div class="home">Home</div>
+  <div class="home">Welcome to pet adoption store</div>
 </template>
 
 <script>
-// @ is an alias to /src
-
 export default {
   name: 'Home'
 };
